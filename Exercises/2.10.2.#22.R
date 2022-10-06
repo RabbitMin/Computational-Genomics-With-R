@@ -1,0 +1,2 @@
+mymat <- matrix(1:15, nrow = 5, ncol = 3)
+mymat[1:3, 1:3]
